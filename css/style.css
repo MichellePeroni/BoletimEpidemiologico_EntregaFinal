@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{ height: 195px;
+background-color:rgb(110, 148, 148);
+
+}
+
+.Titulo{
+    display: flex;
+    justify-content: space-around;
+    font-size: 100px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(245, 244, 242);
+    text-align: center;
+    font-weight: bold;
+
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    gap:30px;
+    margin-top: 15px;
+}
+
+.coluna1{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.informação1{
+
+    width: 400px;
+    height: 200px;
+    background-color: rgb(255, 0, 0);
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.informação2{
+    width: 400px;
+    height: 90px;
+    background-color: rgb(40, 53, 165);
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+
+
+}
+
+.informação3{
+
+    width: 400px;
+    height: 90px;
+    background-color: rgb(82, 98, 241);
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+
+}
+
+.informação4{
+
+    width: 400px;
+    height: 100px;
+    background-color: rgb(33, 61, 122);
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+
+
+}
+
+.coluna2{
+
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
+
+.informação5{
+
+    width: 400px;
+    height: 165px;
+    background-color: rgb(85, 85, 85);
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+
+
+}
+
+.informação6{
+
+    width: 400px;
+    height: 190px;
+    background-color:rgb(27, 60, 92);
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+
+
+}
+
+.informação7{
+    width: 400px;
+    height: 140px;
+    background-color:rgb(17, 99, 207);
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+
+}
